@@ -1,4 +1,4 @@
-# Quick GIFs
+# GIF Quickies
 A lightweight GIF renderer and generator, implemented in C++11.
 
 <br>
